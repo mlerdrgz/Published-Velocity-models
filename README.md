@@ -9,3 +9,6 @@ In this depository are text files for the following velocity models:
 
 For all velocity models, columns are:
 latitude    longitude    depth(km)        dV(s,p)        hit-quality
+
+
+Contact: Emily Rodriguez (eer-at-lanl.gov)
