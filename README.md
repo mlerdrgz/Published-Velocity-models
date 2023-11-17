@@ -8,6 +8,4 @@ In this depository are text files for the following velocity models:
 
 
 For all velocity models, columns are:
-latitude    longitude    depth        dVs        hit-quality
-
-In our paper, we determined >= 0.4 hit-quality to be well-resolved.
+latitude    longitude    depth(km)        dV(s,p)        hit-quality
